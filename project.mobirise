@@ -830,7 +830,7 @@
               "color": "#767676"
             },
             ".mbr-title": {
-              "color": "#e96188"
+              "color": "#3a3a3a"
             },
             ".mbr-title B": {
               "color": "#232323"
@@ -843,7 +843,9 @@
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "features16-18"
+          "_anchor": "features16-18",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
@@ -891,7 +893,7 @@
               "color": "#767676"
             },
             ".mbr-title": {
-              "color": "#ffa100"
+              "color": "#3a3a3a"
             },
             ".mbr-title B": {
               "color": "#232323"
@@ -904,7 +906,9 @@
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "features16-19"
+          "_anchor": "features16-19",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
