@@ -41,15 +41,18 @@
     "uniqCompNum": 46,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/vwcamionesyautobuses-logo-128x146.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "TGX",
-        "meta_descr": "",
+        "title": "¡Adquiere tu Volksbus 8.160 y 9.160!",
+        "meta_descr": "Llévate tu Volksbus 8.160 y 9.160 OD con excelentes opciones de financiamiento. El Midibus líder del segmento con motor de la popular marca Cummins, Ideal para transporte de personal, urbano o interurban",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
