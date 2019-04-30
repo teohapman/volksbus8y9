@@ -1293,24 +1293,24 @@ body {
 .cid-roFqDq8zPz .card-img SPAN {
   color: #000000;
 }
-.cid-rpalcixhKM {
-  padding-top: 0px;
+.cid-rpanoAdqpE {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rpalcixhKM .mbr-text {
-  color: #ffa100;
-}
-.cid-rpalcixhKM .mbr-section-subtitle {
+.cid-rpanoAdqpE .mbr-text {
   color: #767676;
 }
-.cid-rpalcixhKM .title {
+.cid-rpanoAdqpE .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rpanoAdqpE .title {
   position: relative;
   display: flex;
   -webkit-align-items: center;
   align-items: center;
 }
-.cid-rpalcixhKM .title .num {
+.cid-rpanoAdqpE .title .num {
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
   position: absolute;
@@ -1321,45 +1321,45 @@ body {
   width: 100%;
   font-size: 4rem;
 }
-.cid-rpalcixhKM .title .card-title {
+.cid-rpanoAdqpE .title .card-title {
   z-index: 1;
   width: 100%;
 }
-.cid-rpalcixhKM .card-text {
+.cid-rpanoAdqpE .card-text {
   margin-top: 2rem;
   color: #ffa100;
 }
-.cid-rpalcixhKM .card-box {
+.cid-rpanoAdqpE .card-box {
   margin-bottom: 1rem;
 }
-.cid-rpalcixhKM .num {
+.cid-rpanoAdqpE .num {
   color: #cccccc;
 }
 @media (max-width: 767px) {
-  .cid-rpalcixhKM .num,
-  .cid-rpalcixhKM .card-title,
-  .cid-rpalcixhKM .mbr-text,
-  .cid-rpalcixhKM .mbr-title,
-  .cid-rpalcixhKM .mbr-section-subtitle,
-  .cid-rpalcixhKM .mbr-section-btn {
+  .cid-rpanoAdqpE .num,
+  .cid-rpanoAdqpE .card-title,
+  .cid-rpanoAdqpE .mbr-text,
+  .cid-rpanoAdqpE .mbr-title,
+  .cid-rpanoAdqpE .mbr-section-subtitle,
+  .cid-rpanoAdqpE .mbr-section-btn {
     text-align: center !important;
   }
-  .cid-rpalcixhKM .content-column {
+  .cid-rpanoAdqpE .content-column {
     margin-bottom: 2rem;
   }
 }
-.cid-rpalcixhKM .card-text B {
+.cid-rpanoAdqpE .card-text B {
   color: #000000;
 }
-.cid-rpalcixhKM .mbr-section-text,
-.cid-rpalcixhKM .mbr-section-btn {
+.cid-rpanoAdqpE .mbr-section-text,
+.cid-rpanoAdqpE .mbr-section-btn {
   color: #000000;
 }
-.cid-rpalcixhKM .mbr-title B {
+.cid-rpanoAdqpE .mbr-title B {
   color: #232323;
 }
-.cid-rpalcixhKM .card-title,
-.cid-rpalcixhKM .card-img SPAN {
+.cid-rpanoAdqpE .card-title,
+.cid-rpanoAdqpE .card-img SPAN {
   color: #000000;
 }
 .cid-rp3DlBNaOL {
