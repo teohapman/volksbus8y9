@@ -499,7 +499,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#ffa100"
             },
             ".content-row": {
               "& when (@reverseContent)": {
@@ -585,7 +585,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#ffa100"
             },
             ".content-row": {
               "& when (@reverseContent)": {
